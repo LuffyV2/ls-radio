@@ -3,9 +3,10 @@ lua54 'yes'
 game 'gta5'
 
 name         'ls-radio'
-version      '1.0.0'
+version      '1.0.8'
 description  'np v4 radio'
-author       'Luffy'
+author       'luffyxcee'
+credit       'itsnuclear'
 
 shared_script {
   '@qb-core/shared/locale.lua',
