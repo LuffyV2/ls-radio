@@ -1,6 +1,8 @@
 # QB-Radio [qb-radio]
 * Preview : https://youtu.be/__lfpCdBGCU
 * NOPIXEL V4 Inspired Radio Scrpt For qb-core
+* ![image](https://github.com/user-attachments/assets/7735ba5a-fa3d-4a02-8685-4bb9243fb1f9)
+
 
 
 # Installations
